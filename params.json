@@ -1,0 +1,6 @@
+{
+  "name": "FUTURE VALUE OF A SERIES OF MONTHLY PAYMENTS",
+  "tagline": "Calculating annuities never been so easier before!",
+  "body": "# Future Value of a series of monthly payments\r\n\r\n## A simple 'C' programming implementation to estimate future income from interest for a series of monthly payments\r\n_________\r\n\r\n# Task: \r\n## Suppose a person decides to save a fixed amount of money at the end of every month for 'n' years. If the money earns interest at 'i' percent per annum, calculate how much money will be accumulated after 'n' years based on interest rate and the frequency with which the interest 'i' is compounded (Annually / Semi-annually / Monthly /  Quarterly).\r\n\r\n**References**\r\n\r\n\r\n<img src=\"\\images\\fval1.png\"  alt=\"Annual\" class=\"inline\"/>\r\n\r\n```\r\nWhere: \r\n    F = Future Accumulation\r\n    A = Amount (money) deposited each month\r\n    i = Annual interest rate (in decimals)\r\n    m = Number of compounding periods per year\r\n    Where:\r\n        m = 1 //for Annual compounding\r\n        m = 2 //for semi-annual compounding\r\n        m = 4 // for quarterly compounding\r\n        m = 12 //for monthly compounding\r\n```\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
